@@ -1,0 +1,13 @@
+{
+"invite": "false",
+"prefix": "++",
+"discord_owner_id": "328226856144732160",
+"token": "ODg3MTQ0MjMxNTU3MjY3NTE2.G93i8s.aFR6ZrywHy95huSGMUF4199ciFYfYyBFCFDeWE",
+"youtubeAPI": "AIzaSyALH7Yykqc89uRHsxPfG8qkOjkFklQfHa0",
+"geniusLyricsAPI": "wy--8a8xo50Qz9vpqkzUfQb2pDsiVo59lFJLYTCqmRXTmy8hnCF_lLWEEFN2aBrp",
+"tenorAPI": "ANXYA1K89TAZ",
+"newsAPI": "news-api-key",
+"twitchClientID": "Your-Client-ID",
+"twitchClientSecret": "Your-Client-Secret",
+"rawgAPI": "rawg-api-key"
+}
